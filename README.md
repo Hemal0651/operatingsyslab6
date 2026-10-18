@@ -1,1 +1,1 @@
-# operatingsyslab6
+Operating System Labratory's sixth assesment
